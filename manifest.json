@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Realms Player Sleep Enabler",
+		"description": "Made with ❤️ by Silly",
+		"uuid": "fe3a6021-f0a2-4c1b-86d8-f07ad7ae1484",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "ec0a22e4-11c1-4112-999d-191ba1dfc96a",
+			"version": [1, 0, 0]
+		}
+	]
+}
