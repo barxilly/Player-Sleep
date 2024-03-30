@@ -4,7 +4,7 @@ Sets playersSleepingPercentage to 1 whenever someone joins a realm so they don't
 When the player joins the realm the following function is run:
 ```mcfunction
 # Keep the function quiet
-gamerule commandBlockOutput	false
+gamerule commandBlockOutput false
 gamerule sendCommandFeedback false
 # Set the sleep percentage
 gamerule playersSleepingPercentage 1
