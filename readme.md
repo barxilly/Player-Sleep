@@ -10,4 +10,4 @@ gamerule sendCommandFeedback false
 gamerule playersSleepingPercentage 1
 ```
 ## Installation
-Go to the [Releases Page](releases), download the .mcpack file, profit.
+Go to the [Releases Page](https://github.com/barxilly/Player-Sleep/releases), download the .mcpack file, profit.
